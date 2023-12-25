@@ -1,2 +1,2 @@
-# Hyper-Stim
- A high octane extraction looter shooter. 
+# HyperStim
+ A fast paced extraction shooter
