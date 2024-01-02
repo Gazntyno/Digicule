@@ -1,2 +1,2 @@
-# HyperStim
- A fast paced extraction shooter
+# Digicule
+ Creating a living molecule within the digital realm. 
